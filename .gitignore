@@ -1,0 +1,21 @@
+# Directories
+vendor/
+node_modules/
+kernel/
+src/
+template/
+asset/
+
+# Files
+composer.lock
+.env.local
+error.log
+site.webmanifes
+.env
+.DS_Store
+zion.code-workspace
+index.php
+autoload.php
+error.txt
+robots.txt
+package-lock.json

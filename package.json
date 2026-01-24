@@ -1,0 +1,23 @@
+{
+  "name": "zionmemory",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build:css": "npx @tailwindcss/cli -i ./asset/style.css -o ./asset/ui/css/bundle.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mitmelon/zionmemory.git"
+  },
+  "keywords": [],
+  "author": "Manomite Limited",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitmelon/zionmemory/issues"
+  },
+  "homepage": "https://github.com/mitmelon/zionmemory#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "tailwindcss": "^4.1.18"
+  }
+}
