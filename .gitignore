@@ -5,6 +5,8 @@ kernel/
 src/
 template/
 asset/
+contracts/src/ZorahFactory.cairo
+contracts/src/experiment.cairo
 
 # Files
 composer.lock
@@ -19,3 +21,4 @@ autoload.php
 error.txt
 robots.txt
 package-lock.json
+
